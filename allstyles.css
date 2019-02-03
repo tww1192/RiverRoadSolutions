@@ -56,6 +56,15 @@ body {
   display: none;
 }
 
+.bodyDivs
+{
+  height:100vh;
+}
+#hero
+{
+  height:100vh;
+}
+
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
